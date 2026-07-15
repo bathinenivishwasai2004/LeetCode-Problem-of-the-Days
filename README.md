@@ -8,6 +8,7 @@ Consistently solving daily coding challenges to improve problem-solving skills. 
 | ------- |
 | [0078-subsets](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/0078-subsets) |
 | [0283-move-zeroes](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/0283-move-zeroes) |
+| [0414-third-maximum-number](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/0414-third-maximum-number) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Math
 |  |
@@ -35,4 +36,8 @@ Consistently solving daily coding challenges to improve problem-solving skills. 
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/0283-move-zeroes) |
+## Sorting
+|  |
+| ------- |
+| [0414-third-maximum-number](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/0414-third-maximum-number) |
 <!---LeetCode Topics End-->
