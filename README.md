@@ -15,6 +15,7 @@ Consistently solving daily coding challenges to improve problem-solving skills. 
 ## Math
 |  |
 | ------- |
+| [0633-sum-of-square-numbers](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/0633-sum-of-square-numbers) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -40,6 +41,7 @@ Consistently solving daily coding challenges to improve problem-solving skills. 
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/0283-move-zeroes) |
+| [0633-sum-of-square-numbers](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/0633-sum-of-square-numbers) |
 | [1089-duplicate-zeros](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/1089-duplicate-zeros) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
@@ -51,4 +53,8 @@ Consistently solving daily coding challenges to improve problem-solving skills. 
 |  |
 | ------- |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Binary Search
+|  |
+| ------- |
+| [0633-sum-of-square-numbers](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/0633-sum-of-square-numbers) |
 <!---LeetCode Topics End-->
