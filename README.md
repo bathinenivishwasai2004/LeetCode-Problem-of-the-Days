@@ -6,6 +6,7 @@ Consistently solving daily coding challenges to improve problem-solving skills. 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/0011-container-with-most-water) |
 | [0078-subsets](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/0078-subsets) |
 | [0268-missing-number](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/0283-move-zeroes) |
@@ -50,6 +51,7 @@ Consistently solving daily coding challenges to improve problem-solving skills. 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/0011-container-with-most-water) |
 | [0283-move-zeroes](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/0283-move-zeroes) |
 | [0633-sum-of-square-numbers](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/0633-sum-of-square-numbers) |
 | [1089-duplicate-zeros](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/1089-duplicate-zeros) |
@@ -87,4 +89,8 @@ Consistently solving daily coding challenges to improve problem-solving skills. 
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/3312-sorted-gcd-pair-queries) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
