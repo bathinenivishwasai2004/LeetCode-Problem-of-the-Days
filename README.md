@@ -32,6 +32,7 @@ Consistently solving daily coding challenges to improve problem-solving skills. 
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3536-maximum-product-of-two-digits](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
@@ -70,6 +71,7 @@ Consistently solving daily coding challenges to improve problem-solving skills. 
 | ------- |
 | [0268-missing-number](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/0414-third-maximum-number) |
+| [3536-maximum-product-of-two-digits](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
 |  |
