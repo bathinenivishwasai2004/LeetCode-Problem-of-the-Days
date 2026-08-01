@@ -11,6 +11,7 @@ Consistently solving daily coding challenges to improve problem-solving skills. 
 | [0268-missing-number](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/0414-third-maximum-number) |
+| [0486-predict-the-winner](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/0628-maximum-product-of-three-numbers) |
 | [1089-duplicate-zeros](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/1089-duplicate-zeros) |
 | [1260-shift-2d-grid](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/1260-shift-2d-grid) |
@@ -27,6 +28,7 @@ Consistently solving daily coding challenges to improve problem-solving skills. 
 | [0009-palindrome-number](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/0009-palindrome-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/0172-factorial-trailing-zeroes) |
 | [0268-missing-number](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/0268-missing-number) |
+| [0486-predict-the-winner](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/0633-sum-of-square-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -40,6 +42,7 @@ Consistently solving daily coding challenges to improve problem-solving skills. 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/0486-predict-the-winner) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Number Theory
 |  |
@@ -146,4 +149,12 @@ Consistently solving daily coding challenges to improve problem-solving skills. 
 |  |
 | ------- |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/3501-maximize-active-section-with-trade-ii) |
+## Recursion
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
