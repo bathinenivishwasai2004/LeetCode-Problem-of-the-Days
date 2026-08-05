@@ -176,4 +176,16 @@ Consistently solving daily coding challenges to improve problem-solving skills. 
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/1406-stone-game-iii) |
+## Depth-First Search
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/3310-remove-methods-from-project) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/3310-remove-methods-from-project) |
+## Graph Theory
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/3310-remove-methods-from-project) |
 <!---LeetCode Topics End-->
