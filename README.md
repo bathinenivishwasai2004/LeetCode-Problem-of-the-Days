@@ -51,6 +51,7 @@ Consistently solving daily coding challenges to improve problem-solving skills. 
 | [0486-predict-the-winner](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/1406-stone-game-iii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Number Theory
 |  |
@@ -80,6 +81,7 @@ Consistently solving daily coding challenges to improve problem-solving skills. 
 | [0283-move-zeroes](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/0283-move-zeroes) |
 | [0633-sum-of-square-numbers](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/0633-sum-of-square-numbers) |
 | [1089-duplicate-zeros](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/1089-duplicate-zeros) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
 |  |
@@ -130,6 +132,7 @@ Consistently solving daily coding challenges to improve problem-solving skills. 
 | [0316-remove-duplicate-letters](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## String
 |  |
@@ -137,6 +140,7 @@ Consistently solving daily coding challenges to improve problem-solving skills. 
 | [0316-remove-duplicate-letters](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/3501-maximize-active-section-with-trade-ii) |
