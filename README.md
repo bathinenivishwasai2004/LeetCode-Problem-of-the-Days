@@ -151,6 +151,7 @@ Consistently solving daily coding challenges to improve problem-solving skills. 
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -227,5 +228,6 @@ Consistently solving daily coding challenges to improve problem-solving skills. 
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/0643-maximum-average-subarray-i) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 <!---LeetCode Topics End-->
