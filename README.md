@@ -18,6 +18,7 @@ Consistently solving daily coding challenges to improve problem-solving skills. 
 | [1089-duplicate-zeros](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/1089-duplicate-zeros) |
 | [1140-stone-game-ii](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/1260-shift-2d-grid) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1406-stone-game-iii](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/1406-stone-game-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -228,6 +229,7 @@ Consistently solving daily coding challenges to improve problem-solving skills. 
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/0643-maximum-average-subarray-i) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 <!---LeetCode Topics End-->
