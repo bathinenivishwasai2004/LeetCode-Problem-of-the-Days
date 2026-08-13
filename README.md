@@ -23,6 +23,7 @@ Consistently solving daily coding challenges to improve problem-solving skills. 
 | [1406-stone-game-iii](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/1406-stone-game-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/3312-sorted-gcd-pair-queries) |
@@ -158,6 +159,7 @@ Consistently solving daily coding challenges to improve problem-solving skills. 
 | [0316-remove-duplicate-letters](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -185,6 +187,7 @@ Consistently solving daily coding challenges to improve problem-solving skills. 
 ## Segment Tree
 |  |
 | ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Recursion
 |  |
@@ -239,4 +242,8 @@ Consistently solving daily coding challenges to improve problem-solving skills. 
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+## Ordered Set
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/2213-longest-substring-of-one-repeating-character) |
 <!---LeetCode Topics End-->
