@@ -134,6 +134,7 @@ Consistently solving daily coding challenges to improve problem-solving skills. 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3312-sorted-gcd-pair-queries](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/3312-sorted-gcd-pair-queries) |
 | [3731-find-missing-elements](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/3731-find-missing-elements) |
 ## Combinatorics
@@ -170,6 +171,7 @@ Consistently solving daily coding challenges to improve problem-solving skills. 
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -255,6 +257,7 @@ Consistently solving daily coding challenges to improve problem-solving skills. 
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Ordered Set
 |  |
 | ------- |
