@@ -24,6 +24,7 @@ Consistently solving daily coding challenges to improve problem-solving skills. 
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1406-stone-game-iii](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/1406-stone-game-iii) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1563-stone-game-v](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/1563-stone-game-v) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2029-stone-game-ix](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/2029-stone-game-ix) |
@@ -51,6 +52,7 @@ Consistently solving daily coding challenges to improve problem-solving skills. 
 | [1140-stone-game-ii](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/1563-stone-game-v) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/2029-stone-game-ix) |
 | [3312-sorted-gcd-pair-queries](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/3312-sorted-gcd-pair-queries) |
@@ -70,6 +72,7 @@ Consistently solving daily coding challenges to improve problem-solving skills. 
 | [1406-stone-game-iii](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/1406-stone-game-iii) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1510-stone-game-iv](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/1563-stone-game-v) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Number Theory
@@ -218,6 +221,7 @@ Consistently solving daily coding challenges to improve problem-solving skills. 
 | [1140-stone-game-ii](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
