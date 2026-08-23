@@ -26,13 +26,10 @@ class Solution {
 
         int diff = leftSum - rightSum;
         int qDiff = rightQ - leftQ;
-
-        // Odd number of ? difference -> Alice can force a win
         if (qDiff % 2 != 0) {
             return true;
         }
 
-        // Bob can exactly balance the sums
         return diff != (qDiff / 2) * 9;
     }
 }
