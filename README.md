@@ -30,6 +30,7 @@ Consistently solving daily coding challenges to improve problem-solving skills. 
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2029-stone-game-ix](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/3312-sorted-gcd-pair-queries) |
@@ -120,6 +121,7 @@ Consistently solving daily coding challenges to improve problem-solving skills. 
 | [0414-third-maximum-number](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/0628-maximum-product-of-three-numbers) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/3536-maximum-product-of-two-digits) |
@@ -294,4 +296,8 @@ Consistently solving daily coding challenges to improve problem-solving skills. 
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Union-Find
+|  |
+| ------- |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 <!---LeetCode Topics End-->
