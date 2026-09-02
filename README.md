@@ -44,6 +44,7 @@ Consistently solving daily coding challenges to improve problem-solving skills. 
 | [3718-smallest-missing-multiple-of-k](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3875-construct-uniform-parity-array-i](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/3875-construct-uniform-parity-array-i) |
 ## Math
 |  |
 | ------- |
@@ -71,6 +72,7 @@ Consistently solving daily coding challenges to improve problem-solving skills. 
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3875-construct-uniform-parity-array-i](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/3875-construct-uniform-parity-array-i) |
 ## Dynamic Programming
 |  |
 | ------- |
