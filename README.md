@@ -79,6 +79,7 @@ Consistently solving daily coding challenges to improve problem-solving skills. 
 | [0115-distinct-subsequences](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/0115-distinct-subsequences) |
 | [0486-predict-the-winner](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/0877-stone-game) |
+| [0940-distinct-subsequences-ii](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/1406-stone-game-iii) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -196,6 +197,7 @@ Consistently solving daily coding challenges to improve problem-solving skills. 
 | [0003-longest-substring-without-repeating-characters](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0115-distinct-subsequences](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/0115-distinct-subsequences) |
 | [0316-remove-duplicate-letters](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/0316-remove-duplicate-letters) |
+| [0940-distinct-subsequences-ii](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1927-sum-game](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/1927-sum-game) |
