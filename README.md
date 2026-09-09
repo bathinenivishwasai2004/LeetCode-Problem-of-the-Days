@@ -73,6 +73,7 @@ Consistently solving daily coding challenges to improve problem-solving skills. 
 | [3658-gcd-of-odd-and-even-sums](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3870-count-commas-in-range](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/3870-count-commas-in-range) |
+| [3871-count-commas-in-range-ii](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/3875-construct-uniform-parity-array-i) |
 ## Dynamic Programming
 |  |
