@@ -15,6 +15,7 @@ Consistently solving daily coding challenges to improve problem-solving skills. 
 | [0486-predict-the-winner](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/0643-maximum-average-subarray-i) |
+| [0835-image-overlap](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/1004-max-consecutive-ones-iii) |
@@ -224,6 +225,7 @@ Consistently solving daily coding challenges to improve problem-solving skills. 
 ## Matrix
 |  |
 | ------- |
+| [0835-image-overlap](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/0835-image-overlap) |
 | [1260-shift-2d-grid](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/1260-shift-2d-grid) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Enumeration
