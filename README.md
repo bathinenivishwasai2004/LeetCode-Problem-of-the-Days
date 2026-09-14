@@ -55,6 +55,7 @@ Consistently solving daily coding challenges to improve problem-solving skills. 
 | [0486-predict-the-winner](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/0633-sum-of-square-numbers) |
+| [0836-rectangle-overlap](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/1406-stone-game-iii) |
@@ -328,4 +329,8 @@ Consistently solving daily coding challenges to improve problem-solving skills. 
 |  |
 | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
