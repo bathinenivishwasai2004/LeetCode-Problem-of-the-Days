@@ -119,6 +119,7 @@ Consistently solving daily coding challenges to improve problem-solving skills. 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/0011-container-with-most-water) |
+| [0125-valid-palindrome](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/0283-move-zeroes) |
 | [0633-sum-of-square-numbers](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/0633-sum-of-square-numbers) |
 | [1089-duplicate-zeros](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/1089-duplicate-zeros) |
@@ -200,6 +201,7 @@ Consistently solving daily coding challenges to improve problem-solving skills. 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0115-distinct-subsequences](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/0115-distinct-subsequences) |
+| [0125-valid-palindrome](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/0125-valid-palindrome) |
 | [0316-remove-duplicate-letters](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/0316-remove-duplicate-letters) |
 | [0940-distinct-subsequences-ii](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/1081-smallest-subsequence-of-distinct-characters) |
