@@ -8,6 +8,7 @@ Consistently solving daily coding challenges to improve problem-solving skills. 
 | ------- |
 | [0011-container-with-most-water](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/0042-trapping-rain-water) |
 | [0078-subsets](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/0078-subsets) |
 | [0209-minimum-size-subarray-sum](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/0268-missing-number) |
@@ -83,6 +84,7 @@ Consistently solving daily coding challenges to improve problem-solving skills. 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/0042-trapping-rain-water) |
 | [0115-distinct-subsequences](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/0115-distinct-subsequences) |
 | [0486-predict-the-winner](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/0877-stone-game) |
@@ -123,6 +125,7 @@ Consistently solving daily coding challenges to improve problem-solving skills. 
 | ------- |
 | [0011-container-with-most-water](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/0283-move-zeroes) |
 | [0633-sum-of-square-numbers](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/0633-sum-of-square-numbers) |
@@ -227,11 +230,13 @@ Consistently solving daily coding challenges to improve problem-solving skills. 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/0042-trapping-rain-water) |
 | [0316-remove-duplicate-letters](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/0042-trapping-rain-water) |
 | [0316-remove-duplicate-letters](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Matrix
