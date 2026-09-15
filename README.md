@@ -8,6 +8,7 @@ Consistently solving daily coding challenges to improve problem-solving skills. 
 | ------- |
 | [0011-container-with-most-water](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0035-search-insert-position](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/0042-trapping-rain-water) |
 | [0078-subsets](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/0078-subsets) |
 | [0209-minimum-size-subarray-sum](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/0209-minimum-size-subarray-sum) |
@@ -160,6 +161,7 @@ Consistently solving daily coding challenges to improve problem-solving skills. 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/0035-search-insert-position) |
 | [0209-minimum-size-subarray-sum](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/0268-missing-number) |
 | [0633-sum-of-square-numbers](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/0633-sum-of-square-numbers) |
