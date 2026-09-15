@@ -164,6 +164,7 @@ Consistently solving daily coding challenges to improve problem-solving skills. 
 | [0035-search-insert-position](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/0035-search-insert-position) |
 | [0209-minimum-size-subarray-sum](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/0278-first-bad-version) |
 | [0633-sum-of-square-numbers](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/1004-max-consecutive-ones-iii) |
@@ -361,4 +362,8 @@ Consistently solving daily coding challenges to improve problem-solving skills. 
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/0881-boats-to-save-people) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
