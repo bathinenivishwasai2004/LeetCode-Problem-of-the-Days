@@ -17,6 +17,7 @@ Consistently solving daily coding challenges to improve problem-solving skills. 
 | [0486-predict-the-winner](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/0643-maximum-average-subarray-i) |
+| [0704-binary-search](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/0704-binary-search) |
 | [0835-image-overlap](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/0881-boats-to-save-people) |
@@ -162,6 +163,7 @@ Consistently solving daily coding challenges to improve problem-solving skills. 
 | [0209-minimum-size-subarray-sum](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/0268-missing-number) |
 | [0633-sum-of-square-numbers](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/0633-sum-of-square-numbers) |
+| [0704-binary-search](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/1004-max-consecutive-ones-iii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/3501-maximize-active-section-with-trade-ii) |
