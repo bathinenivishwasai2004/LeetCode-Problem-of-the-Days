@@ -69,6 +69,7 @@ Consistently solving daily coding challenges to improve problem-solving skills. 
 | [1406-stone-game-iii](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/1563-stone-game-v) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -98,6 +99,7 @@ Consistently solving daily coding challenges to improve problem-solving skills. 
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1510-stone-game-iv](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/1563-stone-game-v) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/1872-stone-game-viii) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -192,6 +194,7 @@ Consistently solving daily coding challenges to improve problem-solving skills. 
 ## Combinatorics
 |  |
 | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3312-sorted-gcd-pair-queries](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/3312-sorted-gcd-pair-queries) |
 ## Counting
 |  |
@@ -205,6 +208,7 @@ Consistently solving daily coding challenges to improve problem-solving skills. 
 | [0209-minimum-size-subarray-sum](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/0209-minimum-size-subarray-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/1004-max-consecutive-ones-iii) |
 | [1140-stone-game-ii](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/1140-stone-game-ii) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/1872-stone-game-viii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/3312-sorted-gcd-pair-queries) |
 ## Greedy
