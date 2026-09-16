@@ -22,6 +22,7 @@ Consistently solving daily coding challenges to improve problem-solving skills. 
 | [0643-maximum-average-subarray-i](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/0704-binary-search) |
 | [0835-image-overlap](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/0835-image-overlap) |
+| [0875-koko-eating-bananas](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/0904-fruit-into-baskets) |
@@ -173,6 +174,7 @@ Consistently solving daily coding challenges to improve problem-solving skills. 
 | [0278-first-bad-version](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/0278-first-bad-version) |
 | [0633-sum-of-square-numbers](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/1004-max-consecutive-ones-iii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/3501-maximize-active-section-with-trade-ii) |
