@@ -153,6 +153,7 @@ Consistently solving daily coding challenges to improve problem-solving skills. 
 | [0628-maximum-product-of-three-numbers](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/0628-maximum-product-of-three-numbers) |
 | [0881-boats-to-save-people](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/0977-squares-of-a-sorted-array) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -188,6 +189,7 @@ Consistently solving daily coding challenges to improve problem-solving skills. 
 | [0268-missing-number](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/0268-missing-number) |
 | [0904-fruit-into-baskets](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/0904-fruit-into-baskets) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -224,6 +226,7 @@ Consistently solving daily coding challenges to improve problem-solving skills. 
 | [0316-remove-duplicate-letters](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/0316-remove-duplicate-letters) |
 | [0881-boats-to-save-people](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/0881-boats-to-save-people) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/2029-stone-game-ix) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -240,6 +243,7 @@ Consistently solving daily coding challenges to improve problem-solving skills. 
 | [0940-distinct-subsequences-ii](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
