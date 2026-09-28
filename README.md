@@ -14,6 +14,7 @@ Consistently solving daily coding challenges to improve problem-solving skills. 
 | [0035-search-insert-position](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/0042-trapping-rain-water) |
 | [0078-subsets](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/0078-subsets) |
+| [0088-merge-sorted-array](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/0088-merge-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/0283-move-zeroes) |
@@ -138,6 +139,7 @@ Consistently solving daily coding challenges to improve problem-solving skills. 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/0042-trapping-rain-water) |
+| [0088-merge-sorted-array](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/0344-reverse-string) |
@@ -151,6 +153,7 @@ Consistently solving daily coding challenges to improve problem-solving skills. 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/0628-maximum-product-of-three-numbers) |
