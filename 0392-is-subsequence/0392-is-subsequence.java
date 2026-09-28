@@ -12,11 +12,6 @@ class Solution {
                 right++;
             }
         }
-        if(left == s.length()){
-            return true;
-        }
-        else{
-            return false;
-        }
+        return left == s.length();
     }
 }
