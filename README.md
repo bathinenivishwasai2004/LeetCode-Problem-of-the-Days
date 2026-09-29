@@ -408,4 +408,8 @@ Consistently solving daily coding challenges to improve problem-solving skills. 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/0278-first-bad-version) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
