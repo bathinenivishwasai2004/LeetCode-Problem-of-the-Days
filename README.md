@@ -7,6 +7,7 @@ Consistently solving daily coding challenges to improve problem-solving skills. 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/0033-search-in-rotated-sorted-array) |
@@ -139,6 +140,7 @@ Consistently solving daily coding challenges to improve problem-solving skills. 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/0042-trapping-rain-water) |
@@ -159,6 +161,7 @@ Consistently solving daily coding challenges to improve problem-solving skills. 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/0349-intersection-of-two-arrays) |
