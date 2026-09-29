@@ -19,6 +19,7 @@ Consistently solving daily coding challenges to improve problem-solving skills. 
 | [0268-missing-number](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/0414-third-maximum-number) |
 | [0486-predict-the-winner](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/0628-maximum-product-of-three-numbers) |
@@ -146,6 +147,7 @@ Consistently solving daily coding challenges to improve problem-solving skills. 
 | [0283-move-zeroes](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/0392-is-subsequence) |
 | [0633-sum-of-square-numbers](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/0633-sum-of-square-numbers) |
 | [0881-boats-to-save-people](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/0881-boats-to-save-people) |
@@ -160,6 +162,7 @@ Consistently solving daily coding challenges to improve problem-solving skills. 
 | [0088-merge-sorted-array](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/0628-maximum-product-of-three-numbers) |
 | [0881-boats-to-save-people](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/0881-boats-to-save-people) |
@@ -187,6 +190,7 @@ Consistently solving daily coding challenges to improve problem-solving skills. 
 | [0268-missing-number](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0633-sum-of-square-numbers](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/0875-koko-eating-bananas) |
@@ -200,6 +204,7 @@ Consistently solving daily coding challenges to improve problem-solving skills. 
 | [0003-longest-substring-without-repeating-characters](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0268-missing-number](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0904-fruit-into-baskets](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/0904-fruit-into-baskets) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/VishwaSai8022/LeetCode-Problem-of-the-Days/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
